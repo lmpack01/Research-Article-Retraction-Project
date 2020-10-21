@@ -10,7 +10,8 @@
 * [Requirements](#requirements)
 * [Data Collection](#data-collection)
 * [Data Cleaning](#data-cleaning)
-* [EDA and Feature Engineering](#eda-and-feature-engineering)
+* [Feature Engineering](#feature-engineering)
+* [EDA](#eda)
 * [Naive Bayes Models](#naive-bayes-models)
 * [Decision Tree Models](#decision-tree-models)
 * [CSV Files](#csv-files)
@@ -64,7 +65,12 @@ Anaconda3 with Python, Jupyter Notebooks, and Python libraries including:
 
 ---
 
-### EDA and Feature Engineering
+### Feature Engineering
+
+
+---
+
+### EDA
 
 
 ---
