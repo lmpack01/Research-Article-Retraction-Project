@@ -50,6 +50,7 @@ Anaconda3 with Python, Jupyter Notebooks, and Python libraries including:
     * .naive_bayes 
     * .metrics 
     * .tree 
+* textstat
 
 ---
 
@@ -83,7 +84,7 @@ Anaconda3 with Python, Jupyter Notebooks, and Python libraries including:
 
 ---
 
-### Useful Resouces
+### Useful Resources
 * https://biopython.org/wiki/Download
 
 ---
