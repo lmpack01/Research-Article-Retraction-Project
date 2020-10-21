@@ -85,7 +85,10 @@ Anaconda3 with Python, Jupyter Notebooks, and Python libraries including:
 ---
 
 ### Useful Resources
-* https://biopython.org/wiki/Download
+* [Biopython documentation](https://biopython.org/)
+* [Entrez Programming Utilities documentation](https://www.ncbi.nlm.nih.gov/books/NBK25497/)
+* [PMC Database](https://www.ncbi.nlm.nih.gov/pmc/)
+* [PubMed Database](https://pubmed.ncbi.nlm.nih.gov/)
 
 ---
 
