@@ -1,6 +1,6 @@
 # Research Article Retraction Project
 
-![alt text](https://github.com/lmpack01/Research-Article-Retraction-Project/blob/main/martin-adams-_OZCl4XcpRw-unsplash.jpg?raw=true)
+![alt text](https://github.com/lmpack01/Research-Article-Retraction-Project/blob/main/images/martin-adams-_OZCl4XcpRw-unsplash.jpg?raw=true)
 <span>Photo by <a href="https://unsplash.com/@martinadams?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Martin Adams</a> on <a href="https://unsplash.com/s/photos/research?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>
 
 ---
