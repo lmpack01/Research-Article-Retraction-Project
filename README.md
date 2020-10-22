@@ -6,8 +6,8 @@
 ---
 
 ### Table of Contents
+* [Author](#author)
 * [Problem Statement](#problem-statement)
-* [Requirements](#requirements)
 * [Data Collection](#data-collection)
 * [Data Cleaning](#data-cleaning)
 * [Feature Engineering](#feature-engineering)
@@ -17,7 +17,12 @@
 * [CSV Files](#csv-files)
 * [Useful Resources](#useful-resources)
 * [Data Acquisition](#data-acquisition)
-* [Author](#author)
+* [Requirements](#requirements)
+
+---
+
+### Author
+This repository was created by Larissa Pack. 
 
 ---
 
@@ -27,31 +32,6 @@ The goal of this project is to collect and process data related to retracted and
 This project is important to researchers, as researchers would be able to determine if a paper they create needs to be edited to avoid common reasons for retraction, such as plagiarism. Additionally, editors of journals could use the model created in this project to quickly determine if a newly submitted article needs to be looked over closely before moving the article forward in the publishing process. 
 
 For the general public, this project will highlight any prevalent trends in topics or scientific methods that are more likely to be retracted. By having a healthy conversation about the dynamics of retraction, we can build a greater trust between the general public and the scientific community. 
-
----
-
-### Requirements
-Anaconda3 with Python, Jupyter Notebooks, and Python libraries including: 
-* biopython 
-* pandas 
-* requests 
-* time 
-* bs4 
-* numpy 
-* matplotlib.pyplot 
-* seaborn 
-* nltk, specifically: 
-    * .corpus 
-    * .stem 
-    * .tokenize 
-* sklearn, specifically: 
-    * .ensemble 
-    * .model_selection 
-    * .feature_extraction.text 
-    * .naive_bayes 
-    * .metrics 
-    * .tree 
-* textstat
 
 ---
 
@@ -103,5 +83,25 @@ Anaconda3 with Python, Jupyter Notebooks, and Python libraries including:
 
 ---
 
-### Author
-This repository was created by Larissa Pack. 
+### Requirements
+Anaconda3 with Python, Jupyter Notebooks, and Python libraries including: 
+* biopython 
+* pandas 
+* requests 
+* time 
+* bs4 
+* numpy 
+* matplotlib.pyplot 
+* seaborn 
+* nltk, specifically: 
+    * .corpus 
+    * .stem 
+    * .tokenize 
+* sklearn, specifically: 
+    * .ensemble 
+    * .model_selection 
+    * .feature_extraction.text 
+    * .naive_bayes 
+    * .metrics 
+    * .tree 
+* textstat
